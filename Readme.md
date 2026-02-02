@@ -39,3 +39,8 @@ A sample qTest-compatible CSV is generated in the `output/` folder.
 - All data used is synthetic (no PII / PHI)
 - This is a prototype demonstrating **RAG + QA automation**
 - TF-IDF is used for retrieval; embeddings can be added as a future improvement
+
+## Repository Structure
+- `Rag-healthcare-testgen.ipynb` – Exploratory notebook and prototyping
+- `Rag-healthcare-testgen.py` – Production-ready Python script
+
