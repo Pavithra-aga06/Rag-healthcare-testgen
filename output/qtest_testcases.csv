@@ -1,0 +1,2 @@
+Test Case Name,Requirement,Precondition,Step 1,Expected Result,Tags
+NY_2026_Platinum_PCP_CostShare,Benefit Cost Sharing Validation,Synthetic member (SYN-001) enrolled in Platinum Classic plan,Submit an in-network Primary Care Visit claim with billed amount $150,Apply cost share of 15 with individual deductible 0,"NY,2026,Platinum,Synthetic,RAG"
